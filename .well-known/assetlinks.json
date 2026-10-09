@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "com.jacksbeefshack.hq", "sha256_cert_fingerprints": ["24:C0:46:CF:DA:6D:1D:75:51:1A:C5:A1:CD:C1:99:68:D7:B3:E6:42:5B:BC:C3:35:34:EB:42:A5:AF:BA:5E:75", "5B:6E:7E:57:5D:A4:25:38:F9:CC:2E:20:54:0C:1C:72:9E:46:70:69:C5:71:6C:25:19:6E:6E:3B:7C:C9:53:11"]}}]
